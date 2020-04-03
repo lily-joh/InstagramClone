@@ -34,6 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 
+
 ## Open-source libraries used
 
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
